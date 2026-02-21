@@ -35,12 +35,12 @@
 ```text
 credentials/
 ├── 2026/
-│   └── CCNA_ENSA.pdf
+│   ├── CCNA_ENSA.pdf
+│   └── WorldSkills_Fiber.pdf
 ├── 2025/
 │   ├── NXP_MCX_Embedded.pdf
 │   ├── CCNA_SRWE.pdf
-│   ├── CCNA_ITN.pdf
-│   └── WorldSkills_Fiber.pdf
+│   └── CCNA_ITN.pdf
 ├── 2024/
 │   ├── PIA_Hunt.pdf
 │   └── Electroniad.pdf
