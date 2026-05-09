@@ -8,9 +8,9 @@
 
 | # | Certificate / Course | Issuer | Date |
 |---|----------------------|:---:|:---:|
-| 1 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
-| 2 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
-| 3 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025–Present |
+| 1 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025 – May 2026 |
+| 2 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
+| 3 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
 | 4 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
 | 5 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
 | 6 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
@@ -35,6 +35,7 @@
 ```text
 credentials/
 ├── 2026/
+│   ├── NXP_Eat_Sleep_Code_Repeat.pdf
 │   ├── CCNA_ENSA.pdf
 │   └── WorldSkills_Fiber.pdf
 ├── 2025/
