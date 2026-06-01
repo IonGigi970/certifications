@@ -8,14 +8,15 @@
 
 | # | Certificate / Course | Issuer | Date |
 |---|----------------------|:---:|:---:|
-| 1 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025 – May 2026 |
-| 2 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
-| 3 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
-| 4 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
-| 5 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
-| 6 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
-| 7 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
-| 8 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
+| 1 | **Practical Linux and Python Course** | ETTI | May 2026 |
+| 2 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025 – May 2026 |
+| 3 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
+| 4 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
+| 5 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
+| 6 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
+| 7 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
+| 8 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
+| 9 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
 
 ---
 
@@ -37,6 +38,7 @@ credentials/
 ├── 2026/
 │   ├── NXP_Eat_Sleep_Code_Repeat.pdf
 │   ├── CCNA_ENSA.pdf
+│   ├── Curs_Linux_Python.pdf
 │   └── WorldSkills_Fiber.pdf
 ├── 2025/
 │   ├── NXP_MCX_Embedded.pdf
