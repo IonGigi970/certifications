@@ -8,15 +8,16 @@
 
 | # | Certificate / Course | Issuer | Date |
 |---|----------------------|:---:|:---:|
-| 1 | **Practical Linux and Python Course** | ETTI | May 2026 |
-| 2 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025 – May 2026 |
-| 3 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
-| 4 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
-| 5 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
-| 6 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
-| 7 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
-| 8 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
-| 9 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
+| 1 | **Altium Education PCB Design Course** | Altium Education | Sep 2026 |
+| 2 | **Practical Linux and Python Course** | ETTI | May 2026 |
+| 3 | **NXP Eat, Sleep, Code and Repeat** | NXP Semiconductors | Oct 2025 – May 2026 |
+| 4 | **CCNA: Enterprise Networking, Security & Automation** | Cisco | Jan 2026 |
+| 5 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
+| 6 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
+| 7 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
+| 8 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
+| 9 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
+| 10 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
 
 ---
 
@@ -36,18 +37,19 @@
 ```text
 credentials/
 ├── 2026/
-│   ├── NXP_Eat_Sleep_Code_Repeat.pdf
+│   ├── Altium_PCB_Design_Course.pdf
 │   ├── CCNA_ENSA.pdf
 │   ├── Curs_Linux_Python.pdf
+│   ├── NXP_Eat_Sleep_Code_Repeat.pdf
 │   └── WorldSkills_Fiber.pdf
 ├── 2025/
-│   ├── NXP_MCX_Embedded.pdf
+│   ├── CCNA_ITN.pdf
 │   ├── CCNA_SRWE.pdf
-│   └── CCNA_ITN.pdf
+│   └── NXP_MCX_Embedded.pdf
 ├── 2024/
-│   ├── PIA_Hunt.pdf
-│   └── Electroniad.pdf
+│   ├── Electroniad.pdf
+│   └── PIA_Hunt.pdf
 └── 2021-2022/
-    ├── BIT_Backend_PHP_Frameworks.pdf
     ├── BIT_Backend_PHP.pdf
+    ├── BIT_Backend_PHP_Frameworks.pdf
     └── BIT_Frontend_HTML_CSS.pdf
