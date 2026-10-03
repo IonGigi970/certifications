@@ -15,9 +15,10 @@
 | 5 | **MCX Embedded Programming Course** | NXP Semiconductors | Dec 2025 |
 | 6 | **CCNA: Switching, Routing & Wireless Essentials** | Cisco | Jul 2025 |
 | 7 | **CCNA: Introduction to Networks** | Cisco | Apr 2025 |
-| 8 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
-| 9 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
-| 10 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
+| 8 | **Certificate of Attendance (CCNA Lab)** | Telecom Academy | Feb 2024 |
+| 9 | **Backend Web Development (PHP Frameworks)** | BIT Academy | Feb 2022 |
+| 10 | **Backend Web Development (PHP/MySQL)** | BIT Academy | Nov 2021 |
+| 11 | **Frontend Web Development (HTML/CSS)** | BIT Academy | Jul 2021 |
 
 ---
 
@@ -48,7 +49,8 @@ credentials/
 │   └── NXP_MCX_Embedded.pdf
 ├── 2024/
 │   ├── Electroniad.pdf
-│   └── PIA_Hunt.pdf
+│   ├── PIA_Hunt.pdf
+│   └── TelecomAcademy_CCNA_Lab.pdf
 └── 2021-2022/
     ├── BIT_Backend_PHP.pdf
     ├── BIT_Backend_PHP_Frameworks.pdf
